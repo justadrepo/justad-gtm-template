@@ -1,5 +1,5 @@
 homepage: "https://just.ad"
 documentation: "https://docs.just.ad"
 versions:
-  - sha: REPLACE_WITH_COMMIT_SHA
+  - sha: 5cda45789c37e1efb0ea4f6dc57788db1ff0edfe
     changeNotes: Initial release.
