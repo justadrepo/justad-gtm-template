@@ -5,8 +5,9 @@ run-tests.mjs
 test/
 tests/
 
-# Markdown files
+# Markdown files (keep README.md for the gallery)
 *.md
+!README.md
 
 # Dependencies
 node_modules/
